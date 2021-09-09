@@ -17,7 +17,7 @@ title: Linkage Mapper
 email: circuitscape@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   Linkage Mapper
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/linkagemapper" # the subpath of your site, e.g. /blog
 url: "https://linkagescape.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: Circuitscape
