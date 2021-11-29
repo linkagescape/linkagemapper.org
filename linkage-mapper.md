@@ -8,16 +8,11 @@ permalink: /
 
 Linkage Mapper supports regional wildlife habitat connectivity analyses. It consists of six tools that automate mapping and prioritization of wildlife habitat corridors. It is comprised of open source Python scripts, shared in an ArcGIS toolbox.
 
-### Downloads
-
-**Latest ArcGIS 10.0 - 10.6 Version**: [Linkage Mapper 2.0.0](https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip)
-
-**Latest ArcGIS 9.3 Version**: [Linkage Mapper 1.1.0](downloads/LinkageMapper_1_1_0.zip)
-
-(Note: User guides and tutorials are in zip folders.)
-
 Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
 
+<div style=" clear: both;margin-top:50px">
+
+</div>
 ### Tools
 
 A brief summary of the tools follow, with additional details [here](http://linkagemapper.org/linkage-mapper-tools):
