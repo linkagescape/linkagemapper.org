@@ -15,4 +15,7 @@ _book
 *.mobi
 *.pdf
 
-.jekyll-cache
+# Jekyll
+_site/
+*-cache/
+.jekyll-metadata

@@ -6,8 +6,6 @@ permalink: Downloads/
 
 {% include form.html %}
 
-Note: 11/30/21 - We just realized that if you already are subscribed to the LM Newsletter, then filling out the above form does not reveal the link to the v3.0 download. We will fix that soon. In the meantime, here is the link to [Linkage Mapper  v 3.0.0](../downloads/linkage_mapper_3_0_0.zip). If you are not yet subscribed to the newsletter, we encourage you to do so, above.
-
 Circuitscape to be used with Linkage mapper 3.0.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
 ### What's new in Version 3.0.0

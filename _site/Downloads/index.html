@@ -8383,6 +8383,7 @@
           var msg;
           try {
             var parts = resp.msg.split(" - ", 2);
+
             if (parts[1] == undefined) {
               msg = resp.msg;
             } else {
@@ -8404,8 +8405,12 @@
             // If index is -1 if means we don't have data on specifically which field was invalid.
             // Just lump the error message into the generic response div.
             if (index == -1) {
+              console.log(msg);
               $("#mce-" + resp.result + "-response").show();
-              $("#mce-" + resp.result + "-response").html(msg);
+              $("#mce-" + resp.result + "-response").html(
+                'Linkage Mapper 3.0.0 is <a href="https://linkagemapper.org/downloads/linkage_mapper_3_0_0.zip">here</a>. Also, ' +
+                  msg
+              );
             } else {
               var fieldName = $("input[name*='" + fnames[index] + "']").attr(
                 "name"

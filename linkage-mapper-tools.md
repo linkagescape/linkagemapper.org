@@ -55,19 +55,19 @@ Kavanagh DM, Nuñez TA, McRae BH. 2012. Climate linkage mapper connectivity anal
 
 Littlefield CE, McRae BH, Michalak JL, Lawler JJ, Carroll C. 2017. [Connecting today’s climates to future climate analogs to facilitate movement of species under climate change.](http://dx.doi.org/10.1111/cobi.12938) Conservation Biology: the Journal of the Society for Conservation Biology 31:1397–1408.
 
-McRae BH. 2012a. Pinchpoint Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <http://linkagemapper.org>
+McRae BH. 2012a. Pinchpoint Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <https://linkagemapper.org>
 
-McRae BH. 2012b. Centrality Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle WA. Available from <http://linkagemapper.org>
+McRae BH. 2012b. Centrality Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle WA. Available from <https://linkagemapper.org>
 
-McRae BH. 2012c. Barrier Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <http://linkagemapper.org>
+McRae BH. 2012c. Barrier Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <https://linkagemapper.org>
 
 McRae BH, Dickson BG, Keitt TH, Shah VB. 2008. [Using circuit theory to model connectivity in ecology, evolution, and conservation.](https://www.ncbi.nlm.nih.gov/pubmed/18959309) Ecology 89:2712–2724.
 
 McRae BH, Hall SA, Beier P, Theobald DM. 2012. [Where to restore ecological connectivity? Detecting barriers and quantifying restoration benefits.](http://dx.doi.org/10.1371/journal.pone.0052604) PloS one 7:e52604. journals.plos.org.
 
-McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <http://linkagemapper.org.>
+McRae BH, Kavanagh DM. 2011. Linkage Mapper Connectivity Analysis Software. The Nature Conservancy, Seattle, WA. Available from <https://linkagemapper.org.>
 
-McRae B, Shah V. 2009. Circuitscape User Guide. University of California, Santa Barbara. Available from: <http://www.circuitscape.org>
+McRae B, Shah V. 2009. Circuitscape User Guide. University of California, Santa Barbara. Available from: <https://www.circuitscape.org>
 
 Nuñez TA, Lawler JJ, McRae BH, Pierce DJ, Krosby MB, Kavanagh DM, Singleton PH, Tewksbury JJ. 2013. [Connectivity planning to address climate change.](http://dx.doi.org/10.1111/cobi.12014) Conservation Biology: the Journal of the Society for Conservation Biology 27:407–416. Wiley Online Library.
 
