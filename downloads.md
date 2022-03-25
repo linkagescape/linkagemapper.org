@@ -8,6 +8,8 @@ permalink: Downloads/
 
 Circuitscape to be used with Linkage mapper 3.0.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
+Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
+
 ### What's new in Version 3.0.0
 
 - Compatibility with ArcGIS Pro
