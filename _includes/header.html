@@ -5,8 +5,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     
-    <button id="survey"> <a style="font-size: 20px;text-decoration: none;color:black"   href=" https://www.surveymonkey.com/r/LinkageMapper2021">User Survey</a></button>
-    <button id="donate"> <a style="font-size: 20px;text-decoration: none;color:black"  href=" https://donorbox.org/linkage-mapper">Donate</a></button>
+    <button id="survey"> <a style="font-size: 20px;text-decoration: none;color:black" target="_blank"  href=" https://www.surveymonkey.com/r/LinkageMapper2021">User Survey</a></button>
+    <button id="donate"> <a style="font-size: 20px;text-decoration: none;color:black" target="_blank"  href=" https://donorbox.org/linkage-mapper">Donate</a></button>
+    <button id="newsletter"> <a style="font-size: 20px;text-decoration: none;color:black" target="_blank"  href=" https://mailchi.mp/dec0c5cf084d/linkagemapper1?e=67ba4eafbf">Newsletter</a></button>
    
    
     {%- if page_paths -%}
