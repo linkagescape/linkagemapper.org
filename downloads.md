@@ -6,7 +6,7 @@ permalink: Downloads/
 
 {% include form.html %}
 
-Circuitscape to be used with Linkage mapper 3.0.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
+Note: 11/30/21 - We just realized that if you already are subscribed to the LM Newsletter, then filling out the above form does not reveal the link to the v3.1.0 download. We will fix that soon. In the meantime, here is the link to [Linkage Mapper v 3.1.0](../downloads/linkage_mapper_3_1_0.zip). If you are not yet subscribed to the newsletter, we encourage you to do so, above.
 
 Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
 
@@ -22,7 +22,9 @@ Thank you to Darren Kavanagh for coding these improvements, and to Fred Watson f
 
 ### Previous Versions
 
-**Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro**: [Linkage Mapper 3.0.0](../downloads/LinkageMapper_3_1_0.zip)
+**Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro**: [Linkage Mapper 3.0.0](../downloads/LinkageMapper_3_0_0.zip)
+
+Circuitscape to be used with Linkage mapper 3.0.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
 **Latest ArcGIS 10.0 - 10.6 Version**: [Linkage Mapper 2.0.0](https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip)
 
