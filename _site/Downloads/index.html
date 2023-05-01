@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/Downloads/" />
 <meta property="og:site_name" content="Linkage Mapper" />
 <script type="application/ld+json">
-{"description":"Linkage Mapper","@type":"WebPage","url":"http://localhost:4000/Downloads/","headline":"Downloads","@context":"https://schema.org"}</script>
+{"description":"Linkage Mapper","@type":"WebPage","headline":"Downloads","url":"http://localhost:4000/Downloads/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css">
   <link
@@ -8535,38 +8535,21 @@
 
 <p>Extras: <a href="downloads/LM_Lab_V2.zip">Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers </a></p>
 
-<h3 id="whats-new-in-version-300">What’s new in Version 3.0.0</h3>
+<h3 id="whats-new-in-version-310">What’s new in Version 3.1.0</h3>
 
 <ul>
-  <li>Compatibility with ArcGIS Pro</li>
-  <li>Linkage Priority Tool improvements (see next newsletter item)</li>
-  <li>User Guide improvements</li>
-  <li>Back-end engineering and code refactoring</li>
-  <li>Re-writing of the GitHub commit history to make the repository smaller</li>
-  <li>Improved Error Messages and Log Files</li>
-  <li>Climate-wise Connectivity Improvements in Version 3.0.0
-    <ul>
-      <li>There are many climate considerations that can be incorporated in
-habitat connectivity modeling and mapping. Two considerations have
-previously been modeled in isolation from each other, and yield
-quite different recommendations for linkage priority. However, we
-discovered that they are two ends of the same continuous framework,
-and Linkage Mapper Version 3.0.0 allows the user to model for one,
-or the other, or an appropriate blend between both (which we
-recommend). The first consideration is “range shift connectivity”,
-and gives linkages a higher priority for conservation if they are
-predicted to connect a core area that might become too hot/dry in
-the future with a core that is expected to be much cooler/wetter.
-The other is “climate analog connectivity” giving higher priority to
-linkages with the destination core having the same predicted climate
-at a future time (e.g. 2050), as the climate in the source core at
-the current time. We also added “preferred climate” as an optional
-parameter in differentiating among destination cores.</li>
-    </ul>
-  </li>
+  <li>Updated code to run in latest versions of ArcPro, versions 3.x (Python changed the syntax of time.)</li>
+  <li>Update that makes it possible to run tools in batch from Python scripts. Helpful for testing.</li>
+  <li>Fix to the Coarsen Raster Sizes utility to allow it to work with rasters that have file extensions not just raster grids.</li>
+  <li>Fixed a bug in Pinchpoint mapper that arises for certain edge cases.</li>
+  <li>Further refined the use of (time) in ArcPro, versions 3.x and higher</li>
 </ul>
 
+<p>Thank you to Darren Kavanagh for coding these improvements, and to Fred Watson for finding and sharing the initial solution to the ArcPro 3.0 bug.</p>
+
 <h3 id="previous-versions">Previous Versions</h3>
+
+<p><strong>Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro</strong>: <a href="../downloads/LinkageMapper_3_1_0.zip">Linkage Mapper 3.0.0</a></p>
 
 <p><strong>Latest ArcGIS 10.0 - 10.6 Version</strong>: <a href="https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip">Linkage Mapper 2.0.0</a></p>
 
