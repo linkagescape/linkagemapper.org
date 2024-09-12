@@ -73,4 +73,7 @@ Nuñez TA, Lawler JJ, McRae BH, Pierce DJ, Krosby MB, Kavanagh DM, Singleton PH,
 
 Note: Most, if not all of these are available to Linkage Mapper users as .pdfs, upon request.
 
+<p><b>To see some of the references that use linkage mapper, please click on <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22linkage+mapper%22&oq=">link 1</a> or <a href="https://scholar.google.com/scholar?cites=12931852877913659699&as_sdt=2005&sciodt=0,5&hl=en">link 2</a> </b></p>
+
+
 .
