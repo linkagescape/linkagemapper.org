@@ -31,8 +31,9 @@ plugins:
 # Header pages
 header_pages:
   - linkage-mapper.md
+  - linkage-mapper-history.md
+  - linkage-mapper-team.md
   - linkage-mapper-tools.md
-  - about-the-linkage-mapper-team.md
   - downloads.md
   - services.md
 # Exclude from processing.
