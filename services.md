@@ -3,55 +3,58 @@ layout: default
 title: Services
 permalink: /services/
 ---
-We now provide a suite of **Linkage Mapper Services** — each scoped to your data, timeline, and decision needs. Every engagement is custom.
+We now provide a suite of **Linkage Mapper Services** — each scoped to your data, timeline, and decision needs. Every engagement is custom. We can support you in many ways:  
 
 ## 🧭 Project Review
-Independent assessment of your cores, resistance, methods, and results.  
-* Private by default  
+* Independently assessing your core areas, resistance surfaces, methods, and results  
 * Highlights the most robust findings  
-* Flags uncertainty hotspots and data gaps
+* Flags uncertainty hotspots and data gaps  
+  *Private by default*
 
 ## 🔧 Improvement Menu
-* Prioritized upgrades with effort vs. benefit.  
-* We implement or coach your team.
+* Suggesting potential model upgrades with effort vs. benefit estimates  
+* Implementing the improvements or coaching your team through the new analyses
 
 ## 🌐 Online Maps & Outreach
-* Public web maps via free hosting.  
-* We host and maintain, or enable your team.
+* Sharing public web maps via free hosting 
+* Hosting and maintaining web maps and galleries
+* Coaching your team to do any or all of these tasks
 
 ## 🧩 Corridor Validation & Monitoring
-* Test linkages with independent datasets.  
-* Ground-truth plans and feedback loops.
+* Testing linkages with independent datasets (best attainable) 
+* Co-developing plans for ground-truthing
+* Monitoring with camera traps, and/or remote sensing
+* Developing feedback loops, so incoming datasets then improve models
 
 ## 🎓 Team Training & Mentoring
-* Targeted sessions on resistance modeling and QA/QC.  
-* Templates, checklists, reproducible workflows.
+* Offering targeted sessions on resistance surface modeling
+* Developing and teaching or implementing QA/QC for inputs and outputs
+* Providing templates, checklists, and reproducible workflows
 
 ## 🗺️ Portfolio Synthesis
-* Reconcile multiple studies into one clear narrative.  
-* What to trust now. What to fix next.
+* Reconciling multiple studies into one clear narrative  
+* Deciding what to trust now and what to fix next
 
 ## 🔄 Conventional Linkage Mapper Modeling
-* Standard core–resistance–linkage workflow.  
-* Clean inputs, calibrated resistance, reproducible runs.  
-* Best practices, transparent assumptions, decision-ready maps.  
-* We implement or coach your team.
+* Conducting standard core–resistance–linkage workflow
+* Cleaning inputs, calibrating resistance, conducting reproducible runs 
+* Following best practices, stating assumptions, and producing decision-ready maps 
+  *We implement or coach your team to do the work*
 
 ## 🌿 Synoptic Connectivity Modeling
-* A novel, multi-species approach.  
-* One simple map that reflects many focal species at once.  
-* Co-developed with stakeholders for clarity and action.
+* Performing a novel, multi-species approach that results in a single map that reflects connectivity needs for many focal species
+* Organizing stakeholder engagement to co-develop the models for clarity and collaborative action
 
 ## 📦 Deliverables
-* Decision-ready layers and maps  
-* Methods memos and board-ready slides
+* Producing decision-ready layers and maps
+* Sharing iterative versions of methods, write-ups, and board-ready slides
 
 ## 🤝 Grant Support & Partnerships
-* Sharper scopes, budgets, and timelines.  
-* Can list LinkageMapper.org as lead NGO or add us as subcontractors.
+* Developing sharper scopes, budgets, and timelines  
+  *You can propose LinkageMapper.org to be the lead NGO or we can be added as subcontractors*
 
 ## ⚙️ How We Work
-* Short scoping call and data check.  
-* À la carte or packaged. Clear pricing and ownership.  
+* Beginning with a short scoping call and data check
+* Offering an À la carte or packaged menu with clear pricing and ownership
 
 **Contact us:** [john.gallo@linkagemapper.org](mailto:john.gallo@linkagemapper.org)
