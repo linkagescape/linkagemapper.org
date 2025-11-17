@@ -8,7 +8,7 @@ permalink: /
 
 Linkage Mapper is an open-source toolbox for wildlife habitat connectivity analysis. It consists of six Python-based tools packaged in an ArcGIS toolbox that automate the mapping and prioritization of wildlife habitat corridors.
 
-The project is open-access and in active development by a small, collaborative [**team**](https://linkagemapper.org/about-the-team). For support and release updates, please join the [Linkage Mapper User Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email/#!forum/linkage-mapper). You can help shape development via our [**Github project**](https://github.com/linkagescape/linkage-mapper). We also provide a large menu of support and consulting [**services**](https://linkagemapper.org/services/).
+The project is open-access and in active development by a small, collaborative [**team**](https://linkagemapper.org/team). For support and release updates, please join the [Linkage Mapper User Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email/#!forum/linkage-mapper). You can help shape development via our [**Github project**](https://github.com/linkagescape/linkage-mapper). We also provide a large menu of support and consulting [**services**](https://linkagemapper.org/services/).
 
 <div style=" clear: both;margin-top:10px">
 
