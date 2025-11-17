@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the LinkageMapper Team
-permalink: about-the-team/
+title: Team
+permalink: team/
 ---
 
 Our “Founding Father” is Brad McRae. He was a Senior Landscape Ecologist with The Nature Conservancy, but was struck down by cancer in 2017. He was an amazing man. His supervisor, Joe Fargione, wrote a wonderful eulogy: “...Everyone who knew Brad was impressed with his intelligence, thoughtfulness, integrity, honesty, and his steadfast commitment to what he cared about: his family, friends and conserving the natural world...”
