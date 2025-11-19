@@ -38,7 +38,7 @@ We now provide a suite of **Linkage Mapper Services** — each scoped to your da
 ## 🔄 Conventional Linkage Mapper Modeling
 * Conducting standard core–resistance–linkage workflow
 * Cleaning inputs, calibrating resistance, conducting reproducible runs 
-* Following best practices, stating assumptions, and producing decision-ready maps 
+* Following best practices, stating assumptions, and producing decision-ready maps  
   *We implement or coach your team to do the work*
 
 ## 🌿 Synoptic Connectivity Modeling
