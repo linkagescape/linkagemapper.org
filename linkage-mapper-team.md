@@ -8,7 +8,7 @@ The Linkage Mapper Project has an Executive Committee made up of the following f
 
 **Dr. John A. Gallo**  
 *Project Director, Linkage Mapper Project; Principal, John Gallo Consulting; Senior Conservation Associate, Conservation Biology Institute*  
-<img src="/img/john_gallo.jpg" style="display: block; padding:5px;" hspace="0" width="150" height="200">  
+<img src="/img/john_gallo.jpg" style="display: block; padding:5px;" hspace="0" width="160" height="200">  
 Dr. John A. Gallo is a geographer and landscape ecologist whose work focuses on conservation planning, spatial decision support, and habitat connectivity conservation. He co-developed the Linkage Mapper Toolbox, and has been modeling and mapping wildlife habitat connectivity for dozens of regions since 2001, using Linkage Mapper and other connectivity software tools. He is also provides support via the Linkage Mapper community posts and the Linkage Mapper Services offering.  
 
 
