@@ -1,3 +1,8 @@
+---
+layout: default
+title: References
+permalink: /references/
+---
 Linkage Mapper is widely used and has a large community of practice.  There are over 1,900 Linkage Mapper publications in Google Scholar (here), and over 300 publications that cite the original Linkage Mapper  publication (McRae and Kavenaugh, 2011).  Those are here.
 
 We have compiled some of the most important references for understanding the software, best practices for use, and good illustrative case studies.  Additionally, we have an embedded Zotero database coming soon, and are gathering links to grey literature. If you want to make sure your project is in this database, please send us a citation and/or link.
