@@ -9,7 +9,12 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
-
+  // The nav has 8 items and won't fit in the default 800px content width,
+  // so give the header its own wider wrapper to keep everything on one line.
+  .wrapper {
+    max-width: -webkit-calc(1120px - (#{$spacing-unit} * 2));
+    max-width:         calc(1120px - (#{$spacing-unit} * 2));
+  }
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -39,7 +44,9 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
-
+    // Keep multi-word titles like "Linkage Mapper Tools" from breaking
+    // across lines when the nav wraps.
+    white-space: nowrap;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
