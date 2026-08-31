@@ -30,7 +30,7 @@ Thank you to Darren Kavanagh for coding these improvements, and to Fred Watson f
 
 ### Previous Versions
 
-**Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro**: [Linkage Mapper 3.0.0](../downloads/LinkageMapper_3_0_0.zip)
+**Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro**: [Linkage Mapper 3.0.0](../downloads/linkage_mapper_3_0_0.zip)
 
 Circuitscape to be used with Linkage mapper 3.2.0 and eaerlier: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
