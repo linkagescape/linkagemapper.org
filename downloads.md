@@ -8,7 +8,7 @@ permalink: Downloads/
 
 Circuitscape to be used with Linkage mapper 3.2.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
-Extras (some portions are dated...): [Lab Exercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
+Extras (some portions are dated...best to try these AFTER doing the Tutorials at the end of each User Guide.  Feedback on this Lab is welcome.): [Lab Exercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
 
 ### What's new in Version 3.2.0
 
