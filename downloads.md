@@ -6,11 +6,19 @@ permalink: Downloads/
 
 {% include form.html %}
 
-Circuitscape to be used with Linkage mapper 3.1.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
+Circuitscape to be used with Linkage mapper 3.2.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
-Extras: [Lab Excercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
+Extras (some portions are dated...): [Lab Exercise: Linkage Pathways, Pinchpoints, and Barriers ](downloads/LM_Lab_V2.zip)
 
-### What's new in Version 3.1.0
+### What's new in Version 3.2.0
+
+- The v3.1.0 code stopped working with ArcPro 3.6
+- So we updated code to run in latest versions of ArcPro (versions 3.6.x and earlier)
+- Also Addressed some GRASS issues for improved reliability for Climate Linkage Mapper
+
+Thank you to Brad Hill (assisted by Claude) for coding these improvements.
+
+### What was new in Version 3.1.0
 
 - Updated code to run in latest versions of ArcPro, versions 3.x (Python changed the syntax of time.)
 - Update that makes it possible to run tools in batch from Python scripts. Helpful for testing.
@@ -24,7 +32,7 @@ Thank you to Darren Kavanagh for coding these improvements, and to Fred Watson f
 
 **Latest ArcGIS 10.7 - 10.8 Version, ArcGIS Pro**: [Linkage Mapper 3.0.0](../downloads/LinkageMapper_3_0_0.zip)
 
-Circuitscape to be used with Linkage mapper 3.0.0: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
+Circuitscape to be used with Linkage mapper 3.2.0 and eaerlier: [Circuitscape 4.0.7](../downloads/Circuitscape-4.0.7-x64-setup.exe.zip)
 
 **Latest ArcGIS 10.0 - 10.6 Version**: [Linkage Mapper 2.0.0](https://github.com/linkagescape/linkage-mapper/files/2204107/Linkage_Mapper_2_0_0.zip)
 
